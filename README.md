@@ -1,5 +1,5 @@
 <p float="left">
-    <img src="https://bitbucket.org/liviusgrosu/kenny-the-jelly-boi/raw/master/Assets/References/Big%20Graphics.png">
+    <img src="https://raw.githubusercontent.com/liviusgrosu/kenny-the-jelly-boi/master/Pictures/Banner.png">
 </p>
 
 # Inverse Kinematics Spider
@@ -21,7 +21,7 @@ Jump through a world brimming with treasure and mysterious but watch out for the
 with extra goodies to reach a top score. Move blocks to create paths and collect keys to explore new parts of the level. Push those same blocks on buttons to bring up ancient bridges lying dormant in the waters.  
 
 <p float="left">
-    <img src="https://bitbucket.org/liviusgrosu/kenny-the-jelly-boi/raw/master/Assets/References/TileScreenshot.png">
+    <img src="https://raw.githubusercontent.com/liviusgrosu/kenny-the-jelly-boi/master/Pictures/TileScreenshot.png">
 </p>
 
 ## Research:
