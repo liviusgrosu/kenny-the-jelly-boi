@@ -10,6 +10,7 @@
 * [Controls](#controls)
 ## Summary:
 
+
 Kenny the Jelly Boi is a top-down exploration game where you take control of a cute slime named Kenny. The game is quiet simple:
 * Explore the area
 * Collect gems
@@ -18,6 +19,10 @@ Kenny the Jelly Boi is a top-down exploration game where you take control of a c
 
 Jump through a world brimming with treasure and mysterious but watch out for the monsters that stalk the level. Explore secret paths
 with extra goodies to reach a top score. Move blocks to create paths and collect keys to explore new parts of the level. Push those same blocks on buttons to bring up ancient bridges lying dormant in the waters.  
+
+<p float="left">
+    <img src="https://bitbucket.org/liviusgrosu/kenny-the-jelly-boi/raw/master/Assets/References/TileScreenshot.png">
+</p>
 
 ## Research:
 
@@ -50,7 +55,3 @@ This game was a side project mainly to explore the ideas of UX/UI design in the 
 | Right Button       | Move Rightwards                                                   |
 | Top Right Button   | Turn Counter Clockwise                                            |
 | Top Left Button    | Turn Clockwise                                                    |
-
-<p float="left">
-    <img src="https://bitbucket.org/liviusgrosu/kenny-the-jelly-boi/raw/master/Assets/References/TileScreenshot.png">
-</p>
